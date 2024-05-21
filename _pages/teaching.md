@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
+description: My history either as a teaching assistant (TA) or course instructor (I). 
 nav: true
 nav_order: 6
 ---
