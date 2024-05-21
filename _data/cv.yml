@@ -14,31 +14,31 @@
   type: time_table
   contents:
     - title: PhD - Chemical Engineering 
-      institution: California Institute of Technology (Pasadena, CA)
+      institution: California Institute of Technology
       year: 2022-2027
     - title: BSE - Chemical Engineering
-      institution: Case Western Reserve University (Cleveland, OH)
+      institution: Case Western Reserve University
       year: 2018-2022
     - title: High School Diploma
-      institution: Solon High School (Solon, OH)
+      institution: Solon High School
       year: 2014-2018
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020
-      items:
-        - Tau Beta Pi - Ohio Alpha Chapter
-        - The Outstanding Sophomore Award of The Case School of Engineering
-        - Chemical Engineering Award for Outstanding Sophomore Student
-    - year: 2021
-      items:
-        - The Outstanding Junior Award of The Case School of Engineering
-        - Chemical Engineering Award for Outstanding Junior Student
-        - Case Alumni Association Junior Senior Scholarship
     - year: 2022
       items:
         - Cleveland AIChE Outstanding Academic Achievement Award 
         - The Outstanding Senior Award of The Case School of Engineering
         - Robert J. Adler Memorial Prize
         - The A.W. Smith Prize in Chemical Engineering
+    - year: 2021
+      items:
+        - The Outstanding Junior Award of The Case School of Engineering
+        - Chemical Engineering Award for Outstanding Junior Student
+        - Case Alumni Association Junior Senior Scholarship
+    - year: 2020
+      items:
+        - Tau Beta Pi - Ohio Alpha Chapter
+        - The Outstanding Sophomore Award of The Case School of Engineering
+        - Chemical Engineering Award for Outstanding Sophomore Student
