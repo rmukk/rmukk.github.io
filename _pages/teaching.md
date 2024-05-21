@@ -12,6 +12,8 @@ nav_order: 6
 #### 2024
 - ChE 63b (TA): Chemical Engineering Thermodynamics (Winter)
 
+---
+
 ### Case Western Reserve University
 
 #### 2022
