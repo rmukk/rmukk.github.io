@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Raj was here Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a 2nd-year PhD candidate at Caltech, where I am co-advised by [Professor Julia Kornfield](https://kornfield.caltech.edu/) and [Professor Dianne Newman](https://dknweb.caltech.edu/). My research focuses on blending soft matter physics with microbiology to develop engineered living materials. These materials possess emergent properties that could enable precision soil-sensing applications for sustainable agriculture.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my B.S.E. in Chemical Engineering with a specialization in Computing at Case Western Reserve University (CWRU) in 2022. During my undergraduate studies, I engaged in several research projects that shaped my current scientific interests. I worked in [Dr. Valentin Rodionov's](https://rodionovlab.org/) polymer chemistry lab, developing polyolefin blends suitable for scalable conversion to carbon fibers. Additionally, I collaborated with [Dr. Michael J.A. Hore](https://www.horegroup.com/michael-j-a-hore-phd) on simulating the dynamics of bottle-brush polymers, which further deepened my understanding of soft matter systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of the lab, I enjoy playing tennis, hiking, and competing in mixed martial arts.
