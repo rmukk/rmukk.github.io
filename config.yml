@@ -80,7 +80,7 @@ params:
   #      - name: CV
   #        url: cv.pdf
         - name: LinkedIn
-          url: https://www.linkedin.com/in/r_mukk
+          url: https://www.linkedin.com/in/rmukk
         - name: Email
           url: mailto:raj@caltech.edu
   #      - name: Zoom
