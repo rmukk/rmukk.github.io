@@ -80,24 +80,24 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:raj@caltech.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+  #      - name: Zoom
+  #        url: https://www.zoom.us/my/igelfeld
+  #      - name: Location
+  #        url: location/
+  #      - name: Office Hours
+  #        url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=g10kShcAAAAJ&hl=en
+  #      - name: GitHub
+  #        url: https://github.com/pmichaillat
+  #      - name: Substack
+  #        url: https://pmichaillat.substack.com
+  #      - name: YouTube
+  #        url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/r_mukk
+  #      - name: Bluesky
+  #        url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Raj Mukkamala"
       icon: favicon.ico
       iconHeight: 18
 
