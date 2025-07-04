@@ -10,16 +10,16 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
-    main:
+#menu:
+    #main:
    #     - name: Books
    #       url: books/
    #       weight: 5 
    #     - name: Papers
    #       url: papers/
    #       weight: 2
-        - name: Courses
-          url: courses/
+   #     - name: Courses
+   #       url: courses/
     #      weight: 3
     #    - name: Data
     #      url: data/
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["Courses"]
+    MainSections: []
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
