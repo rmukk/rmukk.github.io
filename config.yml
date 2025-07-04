@@ -21,16 +21,16 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+    #    - name: Data
+    #      url: data/
+    #      weight: 4 
+    #    - name: Blog
+    #      url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+    #      weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Personal wesbite of Raj Mukkamala"
+    author: Raj Mukkamala
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Raj S. Mukkamala
+          subtitle: "I’m a chemical engineering PhD student at Caltech, mixing bacteria and polymers to build living materials for sustainable biosensing"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:raj@caltech.edu
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
