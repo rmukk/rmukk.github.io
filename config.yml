@@ -55,8 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Raj S. Mukkamala
-          subtitle: "I’m a chemical engineering PhD student at Caltech, mixing bacteria and polymers to build living materials for sustainable biosensing"
-          imageUrl: "picture.jpeg"
+          subtitle: "I’m a chemical engineering PhD student at Caltech, building environmental biosensors. "
+          imageUrl: "picture2.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
