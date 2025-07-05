@@ -97,7 +97,7 @@ params:
   #        url: https://pmichaillat.substack.com
   #      - name: YouTube
   #        url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
+        - name: X
           url: https://x.com/r_mukk
   #      - name: Bluesky
   #        url: https://bsky.app/profile/pmichaillat.bsky.social
