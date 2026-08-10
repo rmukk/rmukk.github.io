@@ -1,0 +1,23 @@
+{{- define "main" }}
+<article class="essay">
+  <nav class="essay-nav" aria-label="Blog navigation">
+    <a href="{{ site.Home.RelPermalink }}">Raj S. Mukkamala</a>
+    <a href="{{ .CurrentSection.RelPermalink }}">All notes</a>
+  </nav>
+
+  <header class="essay-header">
+    <p class="blog-kicker">Note</p>
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}<p class="essay-deck">{{ . }}</p>{{ end }}
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  </header>
+
+  <div class="essay-body">
+    {{ .Content }}
+  </div>
+
+  <footer class="essay-footer">
+    <a href="{{ .CurrentSection.RelPermalink }}">← Back to all notes</a>
+  </footer>
+</article>
+{{- end }}

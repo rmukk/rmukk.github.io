@@ -10,6 +10,9 @@ pagination:
 taxonomies:
     tag: tags
 
+# Keep empty topic pages private until the blog is published.
+disableKinds: ["taxonomy", "term"]
+
 #menu:
     #main:
    #     - name: Books
@@ -57,7 +60,7 @@ params:
           enabled: true
           title: Raj S. Mukkamala
           subtitle: "I’m a chemical engineering PhD student at Caltech, building environmental biosensors. "
-          imageUrl: "picture2.jpeg"
+          imageUrl: "headshot.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:

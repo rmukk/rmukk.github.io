@@ -1,0 +1,26 @@
+{{- define "main" }}
+<section class="blog-index">
+  <header class="blog-intro">
+    <a class="blog-home-link" href="{{ site.Home.RelPermalink }}">Raj S. Mukkamala</a>
+    <p class="blog-kicker">Writing</p>
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}<p class="blog-description">{{ . }}</p>{{ end }}
+  </header>
+
+  {{- with .Content }}<div class="blog-index-copy">{{ . }}</div>{{ end }}
+
+  <div class="blog-posts" aria-label="Posts">
+    {{- range .Pages.ByDate.Reverse }}
+    <article class="blog-card">
+      <a href="{{ .RelPermalink }}">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <h2>{{ .Title }}</h2>
+        {{- with .Description }}<p>{{ . }}</p>{{ end }}
+      </a>
+    </article>
+    {{- else }}
+    <p class="blog-empty">Writing will appear here soon.</p>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
