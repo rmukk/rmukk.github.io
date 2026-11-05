@@ -59,7 +59,14 @@ params:
     profileMode:
           enabled: true
           title: Raj S. Mukkamala
-          subtitle: "I’m a chemical engineering PhD student at Caltech, building environmental biosensors. "
+          subtitle: |
+            I am a chemical engineer by training, with a research background spanning polymer science, microbiology, and biotechnology.
+
+            My early research focused on polymer synthesis and polymer physics, where I was curious about how the molecular structure and physical properties of polymers influence their behavior (microscopically) and function (macroscopically). During graduate school, I became interested in integrating biology with synthetic polymers, particularly combining the amazing ability of bacteria to sense and synthesize a wide range of complex chemicals with the versatility of polymer matrices, such as hydrogels, to develop functional materials with capabilities that neither system could readily achieve alone.
+
+            Currently, as a PhD student in Chemical Engineering at Caltech, I develop hydrogel-based bacterial biosensors for detecting environmental pollutants, while also collaborating on the development of biomaterials and drug-delivery approaches for clinical applications.
+
+            Although my research spans several disciplines, a common thread is my interest in applying fundamental engineering principles to understand complex systems and address practical challenges. I enjoy learning across fields, approaching problems from different perspectives, and working with broadly curious people.
           imageUrl: "headshot.jpg"
           imageWidth: 160
           imageHeight: 160
